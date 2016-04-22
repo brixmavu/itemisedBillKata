@@ -1,0 +1,23 @@
+{
+  "name": "itemisedBillKata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brixmavu/itemisedBillKata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brixmavu/itemisedBillKata/issues"
+  },
+  "homepage": "https://github.com/brixmavu/itemisedBillKata#readme"
+}
