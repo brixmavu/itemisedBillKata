@@ -10,6 +10,6 @@ exports.allPhoneCalls = function (bill, Provider) {
         });
       }
   }
-  console.log(mapped);
+  //console.log(mapped);
   return mapped;
 };
